@@ -43,34 +43,65 @@ const tabContent = {
   about: `
     <div class="card">
       <h2>About Me</h2>
-      <p>Hi! I'm Pratik, a passionate developer who loves building futuristic, beautiful web experiences. I'm focused on creating engaging digital worlds with code and design.</p>
+      <p><strong>Name:</strong> Pratik Ghanswant</p>
+<p><strong>Age:</strong> 16</p>
+<p><strong>Grade:</strong> 11th Grade Student</p>
+<p><strong>Interests:</strong></p>
+<ul>
+    <li>Passionate about technology, coding, and development.</li>
+    <li>Interested in cybersecurity, software development, and IT-related fields.</li>
+    <li>Enjoys building projects and learning new programming skills.</li>
+    <li>Currently building a futuristic portfolio website and learning new skills.</li>
+</ul>
     </div>
   `,
   projects: `
     <div class="card">
       <h2>Projects</h2>
-      <ul>
-        <li>🔹 Handwritten Robot Project</li>
-        <li>🔹 Chess Game (Custom Coded)</li>
-        <li>🔹 Personal GitHub Website</li>
-      </ul>
+      <<p><strong>Projects:</strong></p>
+<ul>
+    <li><strong>Chess Game:</strong> A fun and interactive chess game built with JavaScript.</li>
+    <li><strong>Futuristic Portfolio:</strong> A personal portfolio website with futuristic design, smooth animations, and interactive features.</li>
+    <li><strong>Current Project:</strong> Actively building a bigger project and still learning new technologies.</li>
+</ul>
     </div>
   `,
   skills: `
     <div class="card">
       <h2>Skills</h2>
-      <ul>
-        <li>💻 Web Development (HTML, CSS, JS)</li>
-        <li>🔒 Cybersecurity Enthusiast</li>
-        <li>⚙️ Programming (Python, JS)</li>
-      </ul>
+      
+<p><strong>Skills:</strong></p>
+<ul>
+    <li><strong>Languages:</strong> Learning Japanese, with a focus on Hiragana and Katakana.</li>
+    <li><strong>Technical Skills:</strong>
+        <ul>
+            <li>Web Development: HTML, CSS, JavaScript (with frameworks like React).</li>
+            <li>Game Development (Chess game).</li>
+            <li>Graphic Design: Basic knowledge of tools for design projects.</li>
+            <li>Cybersecurity: Basic understanding and interest in advancing in this field.</li>
+            <li>Finance and Business Skills.</li>
+        </ul>
+    </li>
+    <li><strong>Soft Skills:</strong>
+        <ul>
+            <li>Leadership Skills: Developing communication and leadership capabilities.</li>
+            <li>Self-Improvement: Constantly learning mindfulness, communication, and human behavior.</li>
+        </ul>
+    </li>
+</ul>
     </div>
   `,
   contact: `
     <div class="card">
       <h2>Contact Me</h2>
-      <p>Email: pratik@example.com</p>
-      <p>GitHub: github.com/pratikghanswant</p>
+<p><strong>Social Media Links:</strong></p>
+<ul>
+    <li><strong>GitHub:</strong> <a href="https://github.com/PROTOX-1" target="_blank">PROTOX-1</a></li>
+    <li><strong>Discord:</strong> <a href="#">Join Discord Server</a></li>
+    <li><strong>LinkedIn:</strong> <a href="#">LinkedIn Profile</a></li>
+    <li><strong>Twitter:</strong> <a href="#">@YourTwitterHandle</a></li>
+    <li><strong>Instagram:</strong> <a href="#">@YourInstagramHandle</a></li>
+</ul>
     </div>
   `
 };
