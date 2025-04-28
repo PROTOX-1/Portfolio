@@ -99,8 +99,8 @@ const tabContent = {
     <li><strong>GitHub:</strong> <a href="https://github.com/PROTOX-1" target="_blank">PROTOX-1</a></li>
     <li><strong>Discord:</strong> <a href="#">Join Discord Server</a></li>
     <li><strong>LinkedIn:</strong> <a href="#">LinkedIn Profile</a></li>
-    <li><strong>Twitter:</strong> <a href="#">@YourTwitterHandle</a></li>
-    <li><strong>Instagram:</strong> <a href="#">@YourInstagramHandle</a></li>
+    <li><strong>Twitter:</strong> <a href="https://x.com/Gamezone454271">@Gamezone454271</a></li>
+    <li><strong>Instagram:</strong> <a href="https://instagram.com/notprotox">@notprotox</a></li>
 </ul>
     </div>
   `
