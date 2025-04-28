@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pratik's Futuristic Portfolio</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Particles.js -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+</head>
+<body>
+
+  <!-- Particles Background -->
+  <div id="particles-js"></div>
+
+  <!-- Welcome Page -->
+  <section id="welcome-page" class="centered">
+    <h1 id="typing-text"></h1>
+    <button id="enter-btn" class="btn-fluffy">Let's Explore 🚀</button>
+  </section>
+
+  <!-- Main Portfolio Page -->
+  <section id="main-page" style="display:none;">
+    <header>
+      <nav>
+        <button class="tab-btn" data-tab="about">About Me</button>
+        <button class="tab-btn" data-tab="projects">Projects</button>
+        <button class="tab-btn" data-tab="skills">Skills</button>
+        <button class="tab-btn" data-tab="contact">Contact</button>
+      </nav>
+    </header>
+
+    <main id="tab-content" class="cards">
+      <!-- Content will load here -->
+    </main>
+  </section>
+
+  <!-- JS -->
+  <script src="script.js"></script>
+</body>
+</html>
